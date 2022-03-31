@@ -4,4 +4,4 @@
 </ul>
 
 ### INICIO
-<img src="https://i.postimg.cc/fR9T6NCx/Git-Hub-App-peliculas-API.png" width="700"/>
+<img src="https://i.postimg.cc/fR9T6NCx/Git-Hub-App-peliculas-API.png" width="1000"/>
