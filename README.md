@@ -3,7 +3,7 @@
   <li>Aplicación móvil de películas que consume API de themoviedb | Flutter.</li>  
 </ul>
 
-### INICIO
+### Pantallas
 <ul>
   <li>Pantalla de inicio</li>  
   <li>Pantalla de información de peliculas</li>
