@@ -1,9 +1,9 @@
-# PELICULAS API APP
+# Peliculas api app
 <ul>
   <li>Aplicación móvil de películas que consume API de themoviedb | Flutter.</li>  
 </ul>
 
-### PANTALLAS
+### Pantallas
 <ul>
   <li>Pantalla de inicio</li>  
   <li>Pantalla de información de peliculas</li>
